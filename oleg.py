@@ -1,0 +1,1 @@
+print("Skuratko Oleg, KN-409")
